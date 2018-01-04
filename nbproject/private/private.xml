@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/assignment2/main.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/view/AgentView.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/ModelEvent.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/AccountModel.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/UserAccount.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/controller/Controller.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/controller/AccountController.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/ModelListener.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/ModelAgentEvent.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/controller/AbstractController.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/Model.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/view/View.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/Agent.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/exceptions/WithdrawException.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/AbstractModel.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/view/AgentRunningView.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/view/UniqueActionEvent.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/view/JFrameView.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/view/HomeView.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/model/EditAccount.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/view/EditView.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/Accounts.txt</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/view/AgentActionEvent.java</file>
+            <file>file:/C:/Users/The%20Dough%20Boys/Documents/Assignment2/Assignment2/src/assignment2/Constants.java</file>
+        </group>
+    </open-files>
+</project-private>
